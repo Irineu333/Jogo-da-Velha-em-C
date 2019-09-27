@@ -5,4 +5,4 @@
 *Contra o computador: Fácil e Difícil <br/>
 *Salvar score <br/>
 *Boa identação <br/>
-*Boas práticas de programação <br/>
+*Boas práticas de programação 
